@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Xeva's Rimhair Retextured</name>
+	<author>Neronix17</author>
+	<packageId>Neronix17.Retexture.XevaRimhair</packageId>
+	<url>https://www.patreon.com/neronix17</url>
+	<supportedVersions>
+		<li>1.4</li>
+		<li>1.5</li>
+	</supportedVersions>
+	<description>Just a simple retexture of Xeva's Rimhair, making them higher resolution for a cleaner result and closer to the vanilla style.</description>
+    <modDependencies>
+		<li>
+			<packageId>Orion.XevaRimhair</packageId>
+			<displayName>Xeva's Rimhair</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=705924057</steamWorkshopUrl>
+		</li>
+    </modDependencies>
+	<loadAfter>
+		<li>Orion.XevaRimhair</li>
+	</loadAfter>
+</ModMetaData>
